@@ -36,3 +36,4 @@ PRODUCT_DEVICE := olipad100
 PRODUCT_BRAND := Olivetti
 PRODUCT_MODEL := Olivetti Olipad 100
 PRIVATE_BUILD_DESC := "Olivetti Olipad ICS 4.0.3"
+PRODUCT_LOCALES := it_IT en_US en_GB de_DE es_ES fr_CA
