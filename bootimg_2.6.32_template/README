@@ -1,0 +1,1 @@
+Place the new zImage under the kernel/ directory, then zip together all the folders - kernel/, META_INF/ and system/ - in one single .zip file flashable via ClockworkMod recovery.
