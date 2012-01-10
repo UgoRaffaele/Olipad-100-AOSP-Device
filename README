@@ -1,17 +1,7 @@
-*** Linux Kernel 2.6.32.9 by UgoRaffaele for Olivetti Olipad 100.
-
-Changelog:
-03/01/2012 	- Added kernel (boot.img) flasher template for CWM with custom bootlogo.
-		- Fix a typo in the main README file.
-
-25/12/2011 	- Support to 1GB RAM.
-		- PIMPMYCPU to allow changing voltage for undervolting.
-		- Overclockable up to 1.5 GHz.
-		- Support to ondemand governor.
+Kernel and build configs for Olivetti Olipad 100 by UgoRaffaele
 
 
-*** Utilities
+Checkout the desired branch to start:
 
-Changelog:
-05/01/2012 	- Added a semistock Olivetti ROM to be flashed via nvflash utility.
-
+* Android ICS - 4.0.3 - git clone git://github.com/UgoRaffaele/Olipad-100-AOSP-Device.git -b ics
+* Android Honeycomb - 3.0.1 - git clone git://github.com/UgoRaffaele/Olipad-100-AOSP-Device.git -b honeycomb
