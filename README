@@ -1,7 +1,5 @@
-Kernel and build configs for Olivetti Olipad 100 by UgoRaffaele
+Kernel and build configs for Olivetti Olipad 100 by UgoRaffaele - ICS 
 
+aosp_device/		ICS build config tree
+nvflash_ics/		NVflash utility ready for ICS
 
-Checkout the desired branch to start:
-
-* Android ICS - 4.0.3 - git clone git://github.com/UgoRaffaele/Olipad-100-AOSP-Device.git -b ics
-* Android Honeycomb - 3.0.1 - git clone git://github.com/UgoRaffaele/Olipad-100-AOSP-Device.git -b honeycomb
