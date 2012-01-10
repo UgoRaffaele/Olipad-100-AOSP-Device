@@ -1,0 +1,4 @@
+Place the newly generated system.img and boot.img in this folder, than execute the following command:
+
+sudo ./nvflash --bct Olipad.bct --setbct --bl bootloader.bin --configfile fastboot_full.cfg --odmdata 0xbc0c0011 --create --go
+
