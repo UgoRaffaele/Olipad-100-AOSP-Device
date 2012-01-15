@@ -63,7 +63,11 @@ PRODUCT_COPY_FILES += \
 # Modules
 PRODUCT_COPY_FILES += \
     device/olivetti/olipad100/modules/scsi_wait_scan.ko:system/lib/modules/scsi_wait_scan.ko \
-    device/olivetti/olipad100/modules/bcm4329.ko:system/lib/modules/bcm4329.ko
+    device/olivetti/olipad100/modules/bcm4329.ko:system/lib/modules/bcm4329.ko \
+    device/olivetti/olipad100/modules/bcm4329.ko:system/lib/modules/baseband-xmm-power2.ko \
+    device/olivetti/olipad100/modules/bcm4329.ko:system/lib/modules/videobuf2-memops.ko \
+    device/olivetti/olipad100/modules/bcm4329.ko:system/lib/modules/videobuf2-vmalloc.ko \
+    device/olivetti/olipad100/modules/bcm4329.ko:system/lib/modules/vivi.ko
 
 # Bluetooth
 PRODUCT_COPY_FILES += \
